@@ -1,6 +1,6 @@
 <!-- Organization Logo -->
 <p align="center">
-  <img src="https://mylionsgeek.ma/logo1.png" alt="LionsGeek Logo" width="150" style="filter: invert(1);" />
+  <img src="https://avatars.githubusercontent.com/u/203420458?s=200&v=4" alt="LionsGeek Logo" width="150"/>
 </p>
 
 <!-- Tagline -->
@@ -53,11 +53,6 @@ LionsGeek is a **tech-driven organization** focused on **web & mobile developmen
     <td><strong>Casatourat 🏛️</strong></td>
     <td>Explore historical buildings & achievements</td>
     <td><a href="https://github.com/forkanimahdi/casatourat">View on GitHub</a></td>
-  </tr>
-  <tr>
-    <td><strong>LionsGeek QR Invite App 📩</strong></td>
-    <td>Scan QR codes for event check-ins</td>
-    <td><a href="https://github.com/forkanimahdi/qr-invite">View on GitHub</a></td>
   </tr>
   <tr>
     <td><strong>Yes-Africa Summit 🌍</strong></td>
