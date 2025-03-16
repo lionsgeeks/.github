@@ -1,6 +1,6 @@
 <!-- Organization Logo -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E0BAQEI5pl3PyS-Eg/company-logo_200_200/company-logo_200_200/0/1734088749325/lionsgeek_logo?e=2147483647&v=beta&t=2tZP_cpgMZO4IFtfyB0GNKXIrPO5I5w6a8iUlnrhntQ" alt="LionsGeek Logo" width="200"/>
+  <img src="https://mylionsgeek.ma/logo1-inverted.png" alt="LionsGeek Logo" width="200"/>
 </p>
 
 <!-- Tagline -->
@@ -11,9 +11,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/forkanimahdi?label=Follow%20Us&style=social" />
-  <img src="https://img.shields.io/github/stars/forkanimahdi/lionsgeek-management?style=social" />
-  <img src="https://img.shields.io/github/license/forkanimahdi/lionsgeek-management" />
+  <a href="https://github.com/forkanimahdi">
+    <img src="https://img.shields.io/github/followers/forkanimahdi?label=Follow%20Us&style=social" />
+  </a>
+  <a href="https://github.com/forkanimahdi/lionsgeek-management">
+    <img src="https://img.shields.io/github/stars/forkanimahdi/lionsgeek-management?style=social" />
+  </a>
+  <a href="https://github.com/forkanimahdi/lionsgeek-management/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/forkanimahdi/lionsgeek-management" />
+  </a>
 </p>
 
 ---
@@ -26,17 +32,15 @@ LionsGeek is a **tech-driven organization** focused on **web & mobile developmen
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,reactnative,tailwind,nodejs,expo,ai,vercel" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,reactnative,tailwind,expo,html,css,javascript" />
 </p>
 
 🚀 **Core Technologies We Use:**  
 ✅ Laravel – Backend & API Development  
 ✅ React & React Native – Frontend & Mobile Apps  
 ✅ Expo – Mobile Development  
-✅ Node.js – Backend & Bots  
 ✅ Tailwind CSS – UI Styling  
-✅ AI Integrations – GPT, Gemini  
-✅ FullCalendar – Event Management  
+✅ JavaScript, HTML & CSS – Web Development  
 
 ---
 
