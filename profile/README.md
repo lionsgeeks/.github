@@ -1,6 +1,6 @@
 <!-- Organization Logo -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/203420458?s=200&v=4" alt="LionsGeek Logo" width="200"/>
+  <img src="https://avatars.githubusercontent.com/u/203420458?s=200&v=4" alt="LionsGeek Logo" width="150"/>
 </p>
 
 <!-- Tagline -->
