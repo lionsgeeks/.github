@@ -1,6 +1,6 @@
 <!-- Organization Logo -->
 <p align="center">
-  <img src="[https://your-logo-url.png](https://media.licdn.com/dms/image/v2/D4E0BAQEI5pl3PyS-Eg/company-logo_200_200/company-logo_200_200/0/1734088749325/lionsgeek_logo?e=2147483647&v=beta&t=2tZP_cpgMZO4IFtfyB0GNKXIrPO5I5w6a8iUlnrhntQ)" alt="LionsGeek Logo" width="200"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E0BAQEI5pl3PyS-Eg/company-logo_200_200/company-logo_200_200/0/1734088749325/lionsgeek_logo?e=2147483647&v=beta&t=2tZP_cpgMZO4IFtfyB0GNKXIrPO5I5w6a8iUlnrhntQ" alt="LionsGeek Logo" width="200"/>
 </p>
 
 <!-- Tagline -->
