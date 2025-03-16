@@ -66,10 +66,10 @@ LionsGeek is a **tech-driven organization** focused on **web & mobile developmen
 ## 📣 Connect With Us  
 
 🔥 **Join the LionsGeek Community & Stay Updated!**  
-📧 [Email Us](mailto:contact@lionsgeek.com)  
+📧 [Email Us](mailto:contact@lionsgeek.ma)  
 🐦 [Twitter](https://twitter.com/lionsgeek)  
 🔗 [LinkedIn](https://linkedin.com/company/lionsgeek)  
-🌍 [Website](https://lionsgeek.com)  
+🌍 [Website](https://lionsgeek.ma)  
 
 💡 **Want to collaborate?** Open an **Issue** or start a **Discussion**!  
 
