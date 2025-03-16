@@ -1,6 +1,6 @@
 <!-- Organization Logo -->
 <p align="center">
-  <img src="https://mylionsgeek.ma/logo1-inverted.png" alt="LionsGeek Logo" width="200"/>
+  <img src="https://mylionsgeek.ma/logo1.png" alt="LionsGeek Logo" width="200"/>
 </p>
 
 <!-- Tagline -->
