@@ -1,6 +1,6 @@
 <!-- Organization Logo -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/203420458?s=200&v=4" alt="LionsGeek Logo" width="150"/>
+  <img src="https://mylionsgeek.ma/logo1.png" alt="LionsGeek Logo" width="150" style="filter: invert(1);" />
 </p>
 
 <!-- Tagline -->
@@ -16,9 +16,6 @@
   </a>
   <a href="https://github.com/forkanimahdi/lionsgeek-management">
     <img src="https://img.shields.io/github/stars/forkanimahdi/lionsgeek-management?style=social" />
-  </a>
-  <a href="https://github.com/forkanimahdi/lionsgeek-management/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/forkanimahdi/lionsgeek-management" />
   </a>
 </p>
 
@@ -46,11 +43,28 @@ LionsGeek is a **tech-driven organization** focused on **web & mobile developmen
 
 ## 📌 Featured Projects  
 
-| Project Name | Description | Repo Link |
-|-------------|------------|----------|
-| **Casatourat** 🏛️ | Explore historical buildings & achievements | [View on GitHub](https://github.com/forkanimahdi/casatourat) |
-| **LionsGeek QR Invite App** 📩 | Scan QR codes for event check-ins | [View on GitHub](https://github.com/forkanimahdi/qr-invite) |
-| **WhatsApp AI Bot** 🤖 | Smart chatbot with YouTube, Weather & AI | [View on GitHub](https://github.com/forkanimahdi/whatsapp-bot) |
+<table align="center">
+  <tr>
+    <th>Project Name</th>
+    <th>Description</th>
+    <th>Repo Link</th>
+  </tr>
+  <tr>
+    <td><strong>Casatourat 🏛️</strong></td>
+    <td>Explore historical buildings & achievements</td>
+    <td><a href="https://github.com/forkanimahdi/casatourat">View on GitHub</a></td>
+  </tr>
+  <tr>
+    <td><strong>LionsGeek QR Invite App 📩</strong></td>
+    <td>Scan QR codes for event check-ins</td>
+    <td><a href="https://github.com/forkanimahdi/qr-invite">View on GitHub</a></td>
+  </tr>
+  <tr>
+    <td><strong>Yes-Africa Summit 🌍</strong></td>
+    <td>Event platform for Africa's biggest tech summit</td>
+    <td><a href="https://github.com/forkanimahdi/yes-africa">View on GitHub</a></td>
+  </tr>
+</table>
 
 ---
 
@@ -66,6 +80,12 @@ LionsGeek is a **tech-driven organization** focused on **web & mobile developmen
 
 ---
 
+## ⚖️ License  
+**© 2024 LionsGeek. All Rights Reserved.**  
+
+---
+
 <p align="center">
   <strong>🚀 Keep Innovating. Keep Coding. Keep Winning. 🦁</strong>
 </p>
+
