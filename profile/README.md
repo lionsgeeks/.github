@@ -1,4 +1,4 @@
-<!-- Organization Logo -->
+  <!-- Organization Logo -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/203420458?s=200&v=4" alt="LionsGeek Logo" width="150"/>
 </p>
@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  <a href="https://lionsgeek.ma"><img src="https://img.shields.io/badge/Website-lionsgeek.ma-18181b?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:contact@lionsgeek.ma"><img src="https://img.shields.io/badge/Email-contact%40lionsgeek.ma-fafafa?style=for-the-badge&labelColor=18181b&logo=gmail&logoColor=18181b" alt="Email" /></a>
-  <a href="https://linkedin.com/company/lionsgeek"><img src="https://img.shields.io/badge/LinkedIn-LionsGeek-fafafa?style=for-the-badge&labelColor=18181b&logo=linkedin&logoColor=18181b" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/lionsgeek"><img src="https://img.shields.io/badge/Twitter-%40lionsgeek-fafafa?style=for-the-badge&labelColor=18181b&logo=x&logoColor=18181b" alt="Twitter" /></a>
+  <a href="https://lionsgeek.ma"><img src="https://img.shields.io/badge/Website-lionsgeek.ma-09090b?style=for-the-badge&logo=google-chrome&logoColor=FCC108" alt="Website" /></a>
+  <a href="mailto:contact@lionsgeek.ma"><img src="https://img.shields.io/badge/Email-contact%40lionsgeek.ma-18181b?style=for-the-badge&logo=gmail&logoColor=FCC108" alt="Email" /></a>
+  <a href="https://linkedin.com/company/lionsgeek"><img src="https://img.shields.io/badge/LinkedIn-LionsGeek-27272a?style=for-the-badge&logo=linkedin&logoColor=FCC108" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/lionsgeek"><img src="https://img.shields.io/badge/Twitter-%40lionsgeek-3f3f46?style=for-the-badge&logo=x&logoColor=FCC108" alt="Twitter" /></a>
 </p>
 
 <br/>
@@ -29,6 +29,33 @@
 
 LionsGeek is a **tech-driven organization** focused on web & mobile development, AI, and automation.
 We build real-world products, support developers, and share knowledge across Morocco and beyond.
+
+<br/>
+
+## Team
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <b>Mehdi Forkani</b><br/>
+      <sub><code>Team Leader</code></sub>
+      <br/><br/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <b>Ayman Boujjar</b><br/>
+      <sub><code>Core Member</code></sub>
+      <br/><br/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br/>
+      <b>Yahya Moussair</b><br/>
+      <sub><code>Core Member</code></sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -54,89 +81,122 @@ We build real-world products, support developers, and share knowledge across Mor
 ## Portfolio
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=71717a&center=true&vCenter=true&width=500&lines=Our+projects+%26+products;Open+source+%7C+Private+builds;Built+with+purpose" alt="Portfolio intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=a1a1aa&center=true&vCenter=true&width=500&lines=Our+projects+%26+products;Open+source+%7C+Private+builds;Built+with+purpose" alt="Portfolio intro" />
 </p>
 
 <br/>
 
-### Flagship Projects
+### Flagship
 
 <table>
   <tr>
-    <td width="33%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/lionsgeek">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=115&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=18&text=lionsgeek&desc=Organization+main+website&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt="lionsgeek" />
-      </a>
+    <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/Public-f4f4f5?style=flat-square&labelColor=71717a" alt="Public" />
-      <img src="https://img.shields.io/badge/JavaScript-f4f4f5?style=flat-square&logo=javascript&labelColor=71717a" alt="JS" />
+      <a href="https://github.com/lionsgeek/lionsgeek"><b>lionsgeek</b></a>
       <br/><br/>
-      <a href="https://github.com/lionsgeek/lionsgeek"><img src="https://img.shields.io/badge/View_Repository-ffffff?style=for-the-badge&labelColor=18181b&logo=github&logoColor=18181b" alt="View" /></a>
+      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+      <br/><br/>
+      <a href="https://github.com/lionsgeek/lionsgeek"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
+      <br/><br/>
     </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/academy">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=115&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=18&text=academy&desc=Learning+platform+for+developers&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt="academy" />
-      </a>
+    <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/Public-f4f4f5?style=flat-square&labelColor=71717a" alt="Public" />
-      <img src="https://img.shields.io/badge/JavaScript-f4f4f5?style=flat-square&logo=javascript&labelColor=71717a" alt="JS" />
+      <a href="https://github.com/lionsgeek/academy"><b>academy</b></a>
       <br/><br/>
-      <a href="https://github.com/lionsgeek/academy"><img src="https://img.shields.io/badge/View_Repository-ffffff?style=for-the-badge&labelColor=18181b&logo=github&logoColor=18181b" alt="View" /></a>
+      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+      <br/><br/>
+      <a href="https://github.com/lionsgeek/academy"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
+      <br/><br/>
     </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/mylionsgeek">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=115&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=17&text=mylionsgeek&desc=Member+portal+%26+dashboard&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt="mylionsgeek" />
-      </a>
+    <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/Public-f4f4f5?style=flat-square&labelColor=71717a" alt="Public" />
-      <img src="https://img.shields.io/badge/JavaScript-f4f4f5?style=flat-square&logo=javascript&labelColor=71717a" alt="JS" />
+      <a href="https://github.com/lionsgeek/mylionsgeek"><b>mylionsgeek</b></a>
       <br/><br/>
-      <a href="https://github.com/lionsgeek/mylionsgeek"><img src="https://img.shields.io/badge/View_Repository-ffffff?style=for-the-badge&labelColor=18181b&logo=github&logoColor=18181b" alt="View" /></a>
+      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+      <br/><br/>
+      <a href="https://github.com/lionsgeek/mylionsgeek"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
+      <br/><br/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-### Platform & Mobile
+### Platform
 
 <table>
   <tr>
-    <td width="33%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/lionsgeek-mobile">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=110&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=15&text=lionsgeek-mobile&desc=Community+mobile+application&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt="lionsgeek-mobile" />
-      </a>
+    <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/Public-f4f4f5?style=flat-square&labelColor=71717a" />
-      <img src="https://img.shields.io/badge/JavaScript-f4f4f5?style=flat-square&logo=javascript&labelColor=71717a" />
+      <a href="https://github.com/lionsgeek/tilila"><b>tilila</b></a>
       <br/><br/>
-      <a href="https://github.com/lionsgeek/lionsgeek-mobile"><img src="https://img.shields.io/badge/View_Repository-ffffff?style=for-the-badge&labelColor=18181b&logo=github&logoColor=18181b" /></a>
+      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+      <br/><br/>
+      <a href="https://github.com/lionsgeek/tilila"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
+      <br/><br/>
     </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/tilila">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=110&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=18&text=tilila&desc=Community-driven+web+project&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt="tilila" />
-      </a>
+    <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/Public-f4f4f5?style=flat-square&labelColor=71717a" />
-      <img src="https://img.shields.io/badge/JavaScript-f4f4f5?style=flat-square&logo=javascript&labelColor=71717a" />
+      <a href="https://github.com/lionsgeek/israr"><b>israr</b></a>
       <br/><br/>
-      <a href="https://github.com/lionsgeek/tilila"><img src="https://img.shields.io/badge/View_Repository-ffffff?style=for-the-badge&labelColor=18181b&logo=github&logoColor=18181b" /></a>
+      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+      <br/><br/>
+      <a href="https://github.com/lionsgeek/israr"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
+      <br/><br/>
     </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/israr">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=110&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=18&text=israr&desc=Private+platform+build&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt="israr" />
-      </a>
+    <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/Private-e4e4e7?style=flat-square&labelColor=52525b" />
-      <img src="https://img.shields.io/badge/JavaScript-f4f4f5?style=flat-square&logo=javascript&labelColor=71717a" />
+      <a href="https://github.com/lionsgeek/clb-klb"><b>clb-klb</b></a>
       <br/><br/>
-      <a href="https://github.com/lionsgeek/israr"><img src="https://img.shields.io/badge/View_Repository-ffffff?style=for-the-badge&labelColor=18181b&logo=github&logoColor=18181b" /></a>
+      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+      <br/><br/>
+      <a href="https://github.com/lionsgeek/clb-klb"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### Mobile
+
+<table>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <br/>
+      <a href="https://github.com/lionsgeek/lionsgeek-mobile"><b>lionsgeek-mobile</b></a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+      <br/><br/>
+      <a href="https://github.com/lionsgeek/lionsgeek-mobile"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
+      <br/><br/>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <br/>
+      <a href="https://github.com/lionsgeek/casamemobile"><b>casamemobile</b></a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-2A2A2A?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <br/><br/>
+      <a href="https://github.com/lionsgeek/casamemobile"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
+      <br/><br/>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <br/>
+      <a href="https://github.com/lionsgeek/yes-mobile"><b>yes-mobile</b></a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+      <br/><br/>
+      <a href="https://github.com/lionsgeek/yes-mobile"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
+      <br/><br/>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <br/>
+      <a href="https://github.com/lionsgeek/yes-mobile-backend"><b>yes-mobile-backend</b></a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+      <br/><br/>
+      <a href="https://github.com/lionsgeek/yes-mobile-backend"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
+      <br/><br/>
     </td>
   </tr>
 </table>
@@ -147,52 +207,32 @@ We build real-world products, support developers, and share knowledge across Mor
 
 <table>
   <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/casatourat">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=115&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=18&text=casatourat&desc=Historical+buildings+%26+cultural+heritage&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt="casatourat" />
-      </a>
+    <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/Private-e4e4e7?style=flat-square&labelColor=52525b" />
-      <img src="https://img.shields.io/badge/JavaScript-f4f4f5?style=flat-square&logo=javascript&labelColor=71717a" />
+      <a href="https://github.com/lionsgeek/casatourat"><b>casatourat</b></a>
       <br/><br/>
-      <a href="https://github.com/lionsgeek/casatourat"><img src="https://img.shields.io/badge/View_Repository-18181b?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+      <br/><br/>
+      <a href="https://github.com/lionsgeek/casatourat"><img src="https://img.shields.io/badge/View_Repo-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
+      <br/><br/>
     </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/casatourat-backend">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=115&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=15&text=casatourat-backend&desc=API+%26+backend+services&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt="casatourat-backend" />
-      </a>
+    <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/Private-e4e4e7?style=flat-square&labelColor=52525b" />
-      <img src="https://img.shields.io/badge/Blade-f4f4f5?style=flat-square&logo=laravel&labelColor=71717a" />
+      <a href="https://github.com/lionsgeek/casatourat-backend"><b>casatourat-backend</b></a>
       <br/><br/>
-      <a href="https://github.com/lionsgeek/casatourat-backend"><img src="https://img.shields.io/badge/View_Repository-ffffff?style=for-the-badge&labelColor=18181b&logo=github&logoColor=18181b" /></a>
+      <img src="https://img.shields.io/badge/Blade-2A2A2A?style=flat-square&logo=laravel&logoColor=white" alt="Blade" />
+      <br/><br/>
+      <a href="https://github.com/lionsgeek/casatourat-backend"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
+      <br/><br/>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/casamemoire">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=110&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=17&text=casamemoire&desc=Memory+preservation+%26+archive&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt="casamemoire" />
-      </a>
-      <br/>
-      <img src="https://img.shields.io/badge/Private-e4e4e7?style=flat-square&labelColor=52525b" />
+      <a href="https://github.com/lionsgeek/casamemoire"><b>casamemoire</b></a>
       <br/><br/>
-      <a href="https://github.com/lionsgeek/casamemoire"><img src="https://img.shields.io/badge/View_Repository-ffffff?style=for-the-badge&labelColor=18181b&logo=github&logoColor=18181b" /></a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <br/>
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/casamemobile">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=110&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=16&text=casamemobile&desc=Event+manager+mobile+app&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt="casamemobile" />
-      </a>
-      <br/>
-      <img src="https://img.shields.io/badge/Private-e4e4e7?style=flat-square&labelColor=52525b" />
-      <img src="https://img.shields.io/badge/TypeScript-f4f4f5?style=flat-square&logo=typescript&labelColor=71717a" />
+      <img src="https://img.shields.io/badge/Archive-333333?style=flat-square&logo=github&logoColor=white" alt="Archive" />
       <br/><br/>
-      <a href="https://github.com/lionsgeek/casamemobile"><img src="https://img.shields.io/badge/View_Repository-ffffff?style=for-the-badge&labelColor=18181b&logo=github&logoColor=18181b" /></a>
+      <a href="https://github.com/lionsgeek/casamemoire"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
+      <br/><br/>
     </td>
   </tr>
 </table>
@@ -203,76 +243,41 @@ We build real-world products, support developers, and share knowledge across Mor
 
 <table>
   <tr>
-    <td width="33%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/yes-africa">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=110&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=17&text=yes-africa&desc=Africa%27s+biggest+youth+tech+summit&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt="yes-africa" />
-      </a>
+    <td width="25%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/Private-e4e4e7?style=flat-square&labelColor=52525b" />
-      <img src="https://img.shields.io/badge/JavaScript-f4f4f5?style=flat-square&logo=javascript&labelColor=71717a" />
+      <a href="https://github.com/lionsgeek/yes-africa"><b>yes-africa</b></a>
       <br/><br/>
-      <a href="https://github.com/lionsgeek/yes-africa"><img src="https://img.shields.io/badge/View_Repository-18181b?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+      <br/><br/>
+      <a href="https://github.com/lionsgeek/yes-africa"><img src="https://img.shields.io/badge/View_Repo-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
+      <br/><br/>
     </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/Y.E.S">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=110&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=20&text=Y.E.S&desc=Summit+core+platform&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt="Y.E.S" />
-      </a>
+    <td width="25%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/Private-e4e4e7?style=flat-square&labelColor=52525b" />
-      <img src="https://img.shields.io/badge/JavaScript-f4f4f5?style=flat-square&logo=javascript&labelColor=71717a" />
+      <a href="https://github.com/lionsgeek/Y.E.S"><b>Y.E.S</b></a>
       <br/><br/>
-      <a href="https://github.com/lionsgeek/Y.E.S"><img src="https://img.shields.io/badge/View_Repository-ffffff?style=for-the-badge&labelColor=18181b&logo=github&logoColor=18181b" /></a>
+      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+      <br/><br/>
+      <a href="https://github.com/lionsgeek/Y.E.S"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
+      <br/><br/>
     </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/yes-backend">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=110&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=16&text=yes-backend&desc=Summit+backend+services&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt="yes-backend" />
-      </a>
+    <td width="25%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/Private-e4e4e7?style=flat-square&labelColor=52525b" />
-      <img src="https://img.shields.io/badge/Blade-f4f4f5?style=flat-square&logo=laravel&labelColor=71717a" />
+      <a href="https://github.com/lionsgeek/yes-backend"><b>yes-backend</b></a>
       <br/><br/>
-      <a href="https://github.com/lionsgeek/yes-backend"><img src="https://img.shields.io/badge/View_Repository-ffffff?style=for-the-badge&labelColor=18181b&logo=github&logoColor=18181b" /></a>
+      <img src="https://img.shields.io/badge/Blade-2A2A2A?style=flat-square&logo=laravel&logoColor=white" alt="Blade" />
+      <br/><br/>
+      <a href="https://github.com/lionsgeek/yes-backend"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
+      <br/><br/>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top" align="center">
+    <td width="25%" align="center" valign="top">
       <br/>
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/yes-learning">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=105&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=16&text=yes-learning&desc=Summit+learning+module&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt="yes-learning" />
-      </a>
-      <br/>
-      <img src="https://img.shields.io/badge/Private-e4e4e7?style=flat-square&labelColor=52525b" />
-      <img src="https://img.shields.io/badge/JavaScript-f4f4f5?style=flat-square&logo=javascript&labelColor=71717a" />
+      <a href="https://github.com/lionsgeek/yes-learning"><b>yes-learning</b></a>
       <br/><br/>
-      <a href="https://github.com/lionsgeek/yes-learning"><img src="https://img.shields.io/badge/View_Repository-ffffff?style=for-the-badge&labelColor=18181b&logo=github&logoColor=18181b" /></a>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <br/>
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/yes-mobile">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=105&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=17&text=yes-mobile&desc=Summit+mobile+application&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt="yes-mobile" />
-      </a>
-      <br/>
-      <img src="https://img.shields.io/badge/Private-e4e4e7?style=flat-square&labelColor=52525b" />
-      <img src="https://img.shields.io/badge/JavaScript-f4f4f5?style=flat-square&logo=javascript&labelColor=71717a" />
+      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
       <br/><br/>
-      <a href="https://github.com/lionsgeek/yes-mobile"><img src="https://img.shields.io/badge/View_Repository-ffffff?style=for-the-badge&labelColor=18181b&logo=github&logoColor=18181b" /></a>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <br/>
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/yes-mobile-backend">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=105&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=14&text=yes-mobile-backend&desc=Mobile+API+layer&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt="yes-mobile-backend" />
-      </a>
-      <br/>
-      <img src="https://img.shields.io/badge/Private-e4e4e7?style=flat-square&labelColor=52525b" />
-      <img src="https://img.shields.io/badge/JavaScript-f4f4f5?style=flat-square&logo=javascript&labelColor=71717a" />
+      <a href="https://github.com/lionsgeek/yes-learning"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
       <br/><br/>
-      <a href="https://github.com/lionsgeek/yes-mobile-backend"><img src="https://img.shields.io/badge/View_Repository-ffffff?style=for-the-badge&labelColor=18181b&logo=github&logoColor=18181b" /></a>
     </td>
   </tr>
 </table>
@@ -283,38 +288,32 @@ We build real-world products, support developers, and share knowledge across Mor
 
 <table>
   <tr>
-    <td width="33%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/ateliera1">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=110&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=18&text=ateliera1&desc=Creative+workshop+project&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt="ateliera1" />
-      </a>
+    <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/Private-e4e4e7?style=flat-square&labelColor=52525b" />
-      <img src="https://img.shields.io/badge/JavaScript-f4f4f5?style=flat-square&logo=javascript&labelColor=71717a" />
+      <a href="https://github.com/lionsgeek/ateliera1"><b>ateliera1</b></a>
       <br/><br/>
-      <a href="https://github.com/lionsgeek/ateliera1"><img src="https://img.shields.io/badge/View_Repository-ffffff?style=for-the-badge&labelColor=18181b&logo=github&logoColor=18181b" /></a>
+      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+      <br/><br/>
+      <a href="https://github.com/lionsgeek/ateliera1"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
+      <br/><br/>
     </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/ecolebelgue">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=110&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=16&text=ecolebelgue&desc=School+management+platform&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt="ecolebelgue" />
-      </a>
+    <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/Private-e4e4e7?style=flat-square&labelColor=52525b" />
-      <img src="https://img.shields.io/badge/JavaScript-f4f4f5?style=flat-square&logo=javascript&labelColor=71717a" />
+      <a href="https://github.com/lionsgeek/ecolebelgue"><b>ecolebelgue</b></a>
       <br/><br/>
-      <a href="https://github.com/lionsgeek/ecolebelgue"><img src="https://img.shields.io/badge/View_Repository-ffffff?style=for-the-badge&labelColor=18181b&logo=github&logoColor=18181b" /></a>
+      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+      <br/><br/>
+      <a href="https://github.com/lionsgeek/ecolebelgue"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
+      <br/><br/>
     </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/2m-inst">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=110&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=18&text=2m-inst&desc=Institutional+digital+project&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt="2m-inst" />
-      </a>
+    <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/Private-e4e4e7?style=flat-square&labelColor=52525b" />
-      <img src="https://img.shields.io/badge/TypeScript-f4f4f5?style=flat-square&logo=typescript&labelColor=71717a" />
+      <a href="https://github.com/lionsgeek/2m-inst"><b>2m-inst</b></a>
       <br/><br/>
-      <a href="https://github.com/lionsgeek/2m-inst"><img src="https://img.shields.io/badge/View_Repository-ffffff?style=for-the-badge&labelColor=18181b&logo=github&logoColor=18181b" /></a>
+      <img src="https://img.shields.io/badge/TypeScript-2A2A2A?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <br/><br/>
+      <a href="https://github.com/lionsgeek/2m-inst"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
+      <br/><br/>
     </td>
   </tr>
 </table>
@@ -325,38 +324,32 @@ We build real-world products, support developers, and share knowledge across Mor
 
 <table>
   <tr>
-    <td width="33%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/her-day-for-her">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=110&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=15&text=her-day-for-her&desc=Women+empowerment+event&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt="her-day-for-her" />
-      </a>
+    <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/Private-e4e4e7?style=flat-square&labelColor=52525b" />
-      <img src="https://img.shields.io/badge/JavaScript-f4f4f5?style=flat-square&logo=javascript&labelColor=71717a" />
+      <a href="https://github.com/lionsgeek/her-day-for-her"><b>her-day-for-her</b></a>
       <br/><br/>
-      <a href="https://github.com/lionsgeek/her-day-for-her"><img src="https://img.shields.io/badge/View_Repository-18181b?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+      <br/><br/>
+      <a href="https://github.com/lionsgeek/her-day-for-her"><img src="https://img.shields.io/badge/View_Repo-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
+      <br/><br/>
     </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/GELEC">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=110&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=20&text=GELEC&desc=Community+initiative&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt="GELEC" />
-      </a>
+    <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/Private-e4e4e7?style=flat-square&labelColor=52525b" />
-      <img src="https://img.shields.io/badge/JavaScript-f4f4f5?style=flat-square&logo=javascript&labelColor=71717a" />
+      <a href="https://github.com/lionsgeek/GELEC"><b>GELEC</b></a>
       <br/><br/>
-      <a href="https://github.com/lionsgeek/GELEC"><img src="https://img.shields.io/badge/View_Repository-ffffff?style=for-the-badge&labelColor=18181b&logo=github&logoColor=18181b" /></a>
+      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+      <br/><br/>
+      <a href="https://github.com/lionsgeek/GELEC"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
+      <br/><br/>
     </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/clb-klb">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=110&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=18&text=clb-klb&desc=Community+collaboration&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt="clb-klb" />
-      </a>
+    <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/Private-e4e4e7?style=flat-square&labelColor=52525b" />
-      <img src="https://img.shields.io/badge/JavaScript-f4f4f5?style=flat-square&logo=javascript&labelColor=71717a" />
+      <a href="https://github.com/lionsgeek/demo-repository"><b>demo-repository</b></a>
       <br/><br/>
-      <a href="https://github.com/lionsgeek/clb-klb"><img src="https://img.shields.io/badge/View_Repository-ffffff?style=for-the-badge&labelColor=18181b&logo=github&logoColor=18181b" /></a>
+      <img src="https://img.shields.io/badge/HTML-333333?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+      <br/><br/>
+      <a href="https://github.com/lionsgeek/demo-repository"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
+      <br/><br/>
     </td>
   </tr>
 </table>
@@ -367,26 +360,14 @@ We build real-world products, support developers, and share knowledge across Mor
 
 <table>
   <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/.github">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=105&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=20&text=.github&desc=Org+profile+%26+community+health&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt=".github" />
-      </a>
+    <td width="50%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/Public-f4f4f5?style=flat-square&labelColor=71717a" />
+      <a href="https://github.com/lionsgeek/.github"><b>.github</b></a>
       <br/><br/>
-      <a href="https://github.com/lionsgeek/.github"><img src="https://img.shields.io/badge/View_Repository-ffffff?style=for-the-badge&labelColor=18181b&logo=github&logoColor=18181b" /></a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=fcc108&fontSize=0" width="100%" alt="" />
-      <a href="https://github.com/lionsgeek/demo-repository">
-        <img src="https://capsule-render.vercel.app/api?type=rounded&height=105&color=ffffff&fontColor=18181b&borderColor=e4e4e7&fontSize=16&text=demo-repository&desc=GitHub+features+demo+sandbox&descSize=11&descAlignY=58&fontAlignY=38" width="100%" alt="demo-repository" />
-      </a>
-      <br/>
-      <img src="https://img.shields.io/badge/Private-e4e4e7?style=flat-square&labelColor=52525b" />
-      <img src="https://img.shields.io/badge/HTML-f4f4f5?style=flat-square&logo=html5&labelColor=71717a" />
+      <img src="https://img.shields.io/badge/Org-27272a?style=flat-square&logo=github&logoColor=FCC108" alt="Org" />
       <br/><br/>
-      <a href="https://github.com/lionsgeek/demo-repository"><img src="https://img.shields.io/badge/View_Repository-ffffff?style=for-the-badge&labelColor=18181b&logo=github&logoColor=18181b" /></a>
+      <a href="https://github.com/lionsgeek/.github"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
+      <br/><br/>
     </td>
   </tr>
 </table>
@@ -400,7 +381,7 @@ We build real-world products, support developers, and share knowledge across Mor
 ## Connect
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=2000&color=71717a&center=true&vCenter=true&width=500&lines=Want+to+collaborate%3F+Open+an+Issue.;Have+an+idea%3F+Start+a+Discussion.;Let%27s+build+something+great+together." alt="Collaboration prompt" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=2000&color=a1a1aa&center=true&vCenter=true&width=500&lines=Want+to+collaborate%3F+Open+an+Issue.;Have+an+idea%3F+Start+a+Discussion.;Let%27s+build+something+great+together." alt="Collaboration prompt" />
 </p>
 
 <p align="center">
