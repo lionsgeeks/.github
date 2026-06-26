@@ -43,7 +43,7 @@ We build real-world products, support developers, and share knowledge across Mor
       </a>
       <br/><br/>
       <b>Mehdi Forkani</b><br/>
-      <a href="https://github.com/forkanimahdi"><b>@forkanimahdi</b></a><br/><br/>
+      <a href="https://github.com/forkanimahdi"><img src="https://img.shields.io/badge/@forkanimahdi-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=000000" alt="@forkanimahdi" /></a><br/><br/>
       <img src="https://img.shields.io/badge/Team_Leader-FCC108?style=for-the-badge&logo=github&logoColor=000000" alt="Team Leader" />
       <br/><br/>
     </td>
@@ -54,7 +54,7 @@ We build real-world products, support developers, and share knowledge across Mor
       </a>
       <br/><br/>
       <b>Ayman Boujjar</b><br/>
-      <a href="https://github.com/aymanboujjar"><b>@aymanboujjar</b></a><br/><br/>
+      <a href="https://github.com/aymanboujjar"><img src="https://img.shields.io/badge/@aymanboujjar-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=000000" alt="@aymanboujjar" /></a><br/><br/>
       <img src="https://img.shields.io/badge/Core_Member-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="Core Member" />
       <br/><br/>
     </td>
@@ -65,7 +65,7 @@ We build real-world products, support developers, and share knowledge across Mor
       </a>
       <br/><br/>
       <b>Yahya Moussair</b><br/>
-      <a href="https://github.com/yahya-moussair"><b>@yahya-moussair</b></a><br/><br/>
+      <a href="https://github.com/yahya-moussair"><img src="https://img.shields.io/badge/@yahya--moussair-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=000000" alt="@yahya-moussair" /></a><br/><br/>
       <img src="https://img.shields.io/badge/Core_Member-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="Core Member" />
       <br/><br/>
     </td>
@@ -103,35 +103,23 @@ We build real-world products, support developers, and share knowledge across Mor
 
 ### Flagship
 
-<table>
+<table width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/lionsgeek"><b>lionsgeek</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/lionsgeek"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/academy"><b>academy</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/academy"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/mylionsgeek"><b>mylionsgeek</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/mylionsgeek"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/lionsgeek"><img src="https://img.shields.io/badge/lionsgeek-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt="lionsgeek" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/JavaScript-27272a?style=flat-square&logo=javascript&logoColor=FCC108" alt="JavaScript" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/lionsgeek"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
+  </tr>
+  <tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=27272a&fontSize=0" width="100%" alt="" /></td></tr>
+  <tr>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/academy"><img src="https://img.shields.io/badge/academy-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt="academy" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/JavaScript-27272a?style=flat-square&logo=javascript&logoColor=FCC108" alt="JavaScript" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/academy"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
+  </tr>
+  <tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=27272a&fontSize=0" width="100%" alt="" /></td></tr>
+  <tr>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/mylionsgeek"><img src="https://img.shields.io/badge/mylionsgeek-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt="mylionsgeek" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/JavaScript-27272a?style=flat-square&logo=javascript&logoColor=FCC108" alt="JavaScript" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/mylionsgeek"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
   </tr>
 </table>
 
@@ -139,35 +127,23 @@ We build real-world products, support developers, and share knowledge across Mor
 
 ### Platform
 
-<table>
+<table width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/tilila"><b>tilila</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/tilila"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/israr"><b>israr</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/israr"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/clb-klb"><b>clb-klb</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/clb-klb"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/tilila"><img src="https://img.shields.io/badge/tilila-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt="tilila" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/JavaScript-27272a?style=flat-square&logo=javascript&logoColor=FCC108" alt="JavaScript" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/tilila"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
+  </tr>
+  <tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=27272a&fontSize=0" width="100%" alt="" /></td></tr>
+  <tr>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/israr"><img src="https://img.shields.io/badge/israr-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt="israr" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/JavaScript-27272a?style=flat-square&logo=javascript&logoColor=FCC108" alt="JavaScript" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/israr"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
+  </tr>
+  <tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=27272a&fontSize=0" width="100%" alt="" /></td></tr>
+  <tr>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/clb-klb"><img src="https://img.shields.io/badge/clb--klb-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt="clb-klb" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/JavaScript-27272a?style=flat-square&logo=javascript&logoColor=FCC108" alt="JavaScript" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/clb-klb"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
   </tr>
 </table>
 
@@ -175,48 +151,29 @@ We build real-world products, support developers, and share knowledge across Mor
 
 ### Mobile
 
-<table>
+<table width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/lionsgeek-mobile"><b>lionsgeek-mobile</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/lionsgeek-mobile"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/casamemobile"><b>casamemobile</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-2A2A2A?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/casamemobile"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/yes-mobile"><b>yes-mobile</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/yes-mobile"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/lionsgeek-mobile"><img src="https://img.shields.io/badge/lionsgeek--mobile-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt="lionsgeek-mobile" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/JavaScript-27272a?style=flat-square&logo=javascript&logoColor=FCC108" alt="JavaScript" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/lionsgeek-mobile"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
   </tr>
+  <tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=27272a&fontSize=0" width="100%" alt="" /></td></tr>
   <tr>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/yes-mobile-backend"><b>yes-mobile-backend</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/yes-mobile-backend"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
-    <td width="33%"></td>
-    <td width="33%"></td>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/casamemobile"><img src="https://img.shields.io/badge/casamemobile-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt="casamemobile" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/TypeScript-27272a?style=flat-square&logo=typescript&logoColor=FCC108" alt="TypeScript" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/casamemobile"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
+  </tr>
+  <tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=27272a&fontSize=0" width="100%" alt="" /></td></tr>
+  <tr>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/yes-mobile"><img src="https://img.shields.io/badge/yes--mobile-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt="yes-mobile" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/JavaScript-27272a?style=flat-square&logo=javascript&logoColor=FCC108" alt="JavaScript" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/yes-mobile"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
+  </tr>
+  <tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=27272a&fontSize=0" width="100%" alt="" /></td></tr>
+  <tr>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/yes-mobile-backend"><img src="https://img.shields.io/badge/yes--mobile--backend-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt="yes-mobile-backend" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/JavaScript-27272a?style=flat-square&logo=javascript&logoColor=FCC108" alt="JavaScript" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/yes-mobile-backend"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
   </tr>
 </table>
 
@@ -224,35 +181,23 @@ We build real-world products, support developers, and share knowledge across Mor
 
 ### Casa Heritage & Culture
 
-<table>
+<table width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/casatourat"><b>casatourat</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/casatourat"><img src="https://img.shields.io/badge/View_Repo-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/casatourat-backend"><b>casatourat-backend</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Blade-2A2A2A?style=flat-square&logo=laravel&logoColor=white" alt="Blade" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/casatourat-backend"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/casamemoire"><b>casamemoire</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Archive-333333?style=flat-square&logo=github&logoColor=white" alt="Archive" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/casamemoire"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/casatourat"><img src="https://img.shields.io/badge/casatourat-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt="casatourat" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/JavaScript-27272a?style=flat-square&logo=javascript&logoColor=FCC108" alt="JavaScript" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/casatourat"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
+  </tr>
+  <tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=27272a&fontSize=0" width="100%" alt="" /></td></tr>
+  <tr>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/casatourat-backend"><img src="https://img.shields.io/badge/casatourat--backend-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt="casatourat-backend" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/Blade-27272a?style=flat-square&logo=laravel&logoColor=FCC108" alt="Blade" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/casatourat-backend"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
+  </tr>
+  <tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=27272a&fontSize=0" width="100%" alt="" /></td></tr>
+  <tr>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/casamemoire"><img src="https://img.shields.io/badge/casamemoire-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt="casamemoire" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/Archive-27272a?style=flat-square&logo=github&logoColor=FCC108" alt="Archive" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/casamemoire"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
   </tr>
 </table>
 
@@ -260,48 +205,29 @@ We build real-world products, support developers, and share knowledge across Mor
 
 ### Y.E.S — Youth Empowerment Summit
 
-<table>
+<table width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/yes-africa"><b>yes-africa</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/yes-africa"><img src="https://img.shields.io/badge/View_Repo-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/Y.E.S"><b>Y.E.S</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/Y.E.S"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/yes-backend"><b>yes-backend</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Blade-2A2A2A?style=flat-square&logo=laravel&logoColor=white" alt="Blade" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/yes-backend"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/yes-africa"><img src="https://img.shields.io/badge/yes--africa-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt="yes-africa" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/JavaScript-27272a?style=flat-square&logo=javascript&logoColor=FCC108" alt="JavaScript" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/yes-africa"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
   </tr>
+  <tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=27272a&fontSize=0" width="100%" alt="" /></td></tr>
   <tr>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/yes-learning"><b>yes-learning</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/yes-learning"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
-    <td width="33%"></td>
-    <td width="33%"></td>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/Y.E.S"><img src="https://img.shields.io/badge/Y.E.S-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt="Y.E.S" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/JavaScript-27272a?style=flat-square&logo=javascript&logoColor=FCC108" alt="JavaScript" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/Y.E.S"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
+  </tr>
+  <tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=27272a&fontSize=0" width="100%" alt="" /></td></tr>
+  <tr>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/yes-backend"><img src="https://img.shields.io/badge/yes--backend-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt="yes-backend" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/Blade-27272a?style=flat-square&logo=laravel&logoColor=FCC108" alt="Blade" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/yes-backend"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
+  </tr>
+  <tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=27272a&fontSize=0" width="100%" alt="" /></td></tr>
+  <tr>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/yes-learning"><img src="https://img.shields.io/badge/yes--learning-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt="yes-learning" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/JavaScript-27272a?style=flat-square&logo=javascript&logoColor=FCC108" alt="JavaScript" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/yes-learning"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
   </tr>
 </table>
 
@@ -309,35 +235,23 @@ We build real-world products, support developers, and share knowledge across Mor
 
 ### Education & Workshops
 
-<table>
+<table width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/ateliera1"><b>ateliera1</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/ateliera1"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/ecolebelgue"><b>ecolebelgue</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/ecolebelgue"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/2m-inst"><b>2m-inst</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-2A2A2A?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/2m-inst"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/ateliera1"><img src="https://img.shields.io/badge/ateliera1-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt="ateliera1" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/JavaScript-27272a?style=flat-square&logo=javascript&logoColor=FCC108" alt="JavaScript" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/ateliera1"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
+  </tr>
+  <tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=27272a&fontSize=0" width="100%" alt="" /></td></tr>
+  <tr>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/ecolebelgue"><img src="https://img.shields.io/badge/ecolebelgue-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt="ecolebelgue" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/JavaScript-27272a?style=flat-square&logo=javascript&logoColor=FCC108" alt="JavaScript" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/ecolebelgue"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
+  </tr>
+  <tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=27272a&fontSize=0" width="100%" alt="" /></td></tr>
+  <tr>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/2m-inst"><img src="https://img.shields.io/badge/2m--inst-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt="2m-inst" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/TypeScript-27272a?style=flat-square&logo=typescript&logoColor=FCC108" alt="TypeScript" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/2m-inst"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
   </tr>
 </table>
 
@@ -345,35 +259,23 @@ We build real-world products, support developers, and share knowledge across Mor
 
 ### Community & Initiatives
 
-<table>
+<table width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/her-day-for-her"><b>her-day-for-her</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/her-day-for-her"><img src="https://img.shields.io/badge/View_Repo-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/GELEC"><b>GELEC</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/GELEC"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/demo-repository"><b>demo-repository</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/HTML-333333?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/demo-repository"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/her-day-for-her"><img src="https://img.shields.io/badge/her--day--for--her-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt="her-day-for-her" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/JavaScript-27272a?style=flat-square&logo=javascript&logoColor=FCC108" alt="JavaScript" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/her-day-for-her"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
+  </tr>
+  <tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=27272a&fontSize=0" width="100%" alt="" /></td></tr>
+  <tr>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/GELEC"><img src="https://img.shields.io/badge/GELEC-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt="GELEC" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/JavaScript-27272a?style=flat-square&logo=javascript&logoColor=FCC108" alt="JavaScript" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/GELEC"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
+  </tr>
+  <tr><td colspan="3"><img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=27272a&fontSize=0" width="100%" alt="" /></td></tr>
+  <tr>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/demo-repository"><img src="https://img.shields.io/badge/demo--repository-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt="demo-repository" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/HTML-27272a?style=flat-square&logo=html5&logoColor=FCC108" alt="HTML" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/demo-repository"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
   </tr>
 </table>
 
@@ -381,19 +283,11 @@ We build real-world products, support developers, and share knowledge across Mor
 
 ### Internal
 
-<table>
+<table width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <br/>
-      <a href="https://github.com/lionsgeeks/.github"><b>.github</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Org-27272a?style=flat-square&logo=github&logoColor=FCC108" alt="Org" />
-      <br/><br/>
-      <a href="https://github.com/lionsgeeks/.github"><img src="https://img.shields.io/badge/View_Repo-09090b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a>
-      <br/><br/>
-    </td>
-    <td width="33%"></td>
-    <td width="33%"></td>
+    <td width="55%" align="left"><a href="https://github.com/lionsgeeks/.github"><img src="https://img.shields.io/badge/.github-FCC108?style=for-the-badge&labelColor=09090b&logo=github&logoColor=FCC108" alt=".github" /></a></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/Org-27272a?style=flat-square&logo=github&logoColor=FCC108" alt="Org" /></td>
+    <td width="25%" align="right"><a href="https://github.com/lionsgeeks/.github"><img src="https://img.shields.io/badge/View_→-18181b?style=for-the-badge&logo=github&logoColor=FCC108" alt="View" /></a></td>
   </tr>
 </table>
 
@@ -410,13 +304,10 @@ We build real-world products, support developers, and share knowledge across Mor
 </p>
 
 <p align="center">
-  <a href="mailto:contact@lionsgeek.ma">contact@lionsgeek.ma</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://lionsgeek.ma">lionsgeek.ma</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://linkedin.com/company/lionsgeek">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://twitter.com/lionsgeek">Twitter / X</a>
+  <a href="mailto:contact@lionsgeek.ma"><img src="https://img.shields.io/badge/contact%40lionsgeek.ma-FCC108?style=for-the-badge&labelColor=09090b&logo=gmail&logoColor=000000" alt="Email" /></a>
+  <a href="https://lionsgeek.ma"><img src="https://img.shields.io/badge/lionsgeek.ma-FCC108?style=for-the-badge&labelColor=09090b&logo=google-chrome&logoColor=000000" alt="Website" /></a>
+  <a href="https://linkedin.com/company/lionsgeek"><img src="https://img.shields.io/badge/LinkedIn-FCC108?style=for-the-badge&labelColor=09090b&logo=linkedin&logoColor=000000" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/lionsgeek"><img src="https://img.shields.io/badge/Twitter-FCC108?style=for-the-badge&labelColor=09090b&logo=x&logoColor=000000" alt="Twitter" /></a>
 </p>
 
 <br/>
