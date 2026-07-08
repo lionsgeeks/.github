@@ -36,52 +36,86 @@ We build real-world products, support developers, and share knowledge across Mor
 
 <table>
   <tr>
-    <td width="27%%" align="center" valign="top">
+    <!-- Mehdi Forkani -->
+    <td width="33.33%" align="center" valign="top">
       <br/>
       <a href="https://github.com/forkanimahdi">
         <img src="https://github.com/forkanimahdi.png?s=120" width="100" alt="Mehdi Forkani" />
       </a>
       <br/><br/>
       <b>Mehdi Forkani</b><br/>
-      <a href="https://github.com/forkanimahdi"><img src="https://img.shields.io/badge/@forkanimahdi-09090b?style=for-the-badge&labelColor=FCC108&logo=github&logoColor=FCC108" alt="@forkanimahdi" /></a><br/><br/>
+      <a href="https://github.com/forkanimahdi">
+        <img src="https://img.shields.io/badge/@forkanimahdi-09090b?style=for-the-badge&labelColor=FCC108&logo=github&logoColor=FCC108" alt="@forkanimahdi" />
+      </a><br/><br/>
       <img src="https://img.shields.io/badge/Team_Leader-18181b?style=for-the-badge&labelColor=FCC108&logo=github&logoColor=FCC108" alt="Team Leader" />
       <br/><br/>
     </td>
-    <td width="27%%" align="center" valign="top">
+
+    <!-- Sara Chafik Idrissi -->
+    <td width="33.33%" align="center" valign="top">
+      <br/>
+      <a href="https://github.com/sarachafikidrissi">
+        <img src="https://github.com/sarachafikidrissi.png?s=120" width="100" alt="Sara Chafik Idrissi" />
+      </a>
+      <br/><br/>
+      <b>Sara Chafik Idrissi</b><br/>
+      <a href="https://github.com/sarachafikidrissi">
+        <img src="https://img.shields.io/badge/@sarachafikidrissi-09090b?style=for-the-badge&labelColor=FCC108&logo=github&logoColor=FCC108" alt="@sarachafikidrissi" />
+      </a><br/><br/>
+      <img src="https://img.shields.io/badge/Core_Member-18181b?style=for-the-badge&labelColor=a1a1aa&logo=github&logoColor=FCC108" alt="Core Member" />
+      <br/><br/>
+    </td>
+
+    <!-- Ayman Boujjar -->
+    <td width="33.33%" align="center" valign="top">
       <br/>
       <a href="https://github.com/aymanboujjar">
         <img src="https://github.com/aymanboujjar.png?s=120" width="100" alt="Ayman Boujjar" />
       </a>
       <br/><br/>
       <b>Ayman Boujjar</b><br/>
-      <a href="https://github.com/aymanboujjar"><img src="https://img.shields.io/badge/@aymanboujjar-09090b?style=for-the-badge&labelColor=FCC108&logo=github&logoColor=FCC108" alt="@aymanboujjar" /></a><br/><br/>
+      <a href="https://github.com/aymanboujjar">
+        <img src="https://img.shields.io/badge/@aymanboujjar-09090b?style=for-the-badge&labelColor=FCC108&logo=github&logoColor=FCC108" alt="@aymanboujjar" />
+      </a><br/><br/>
       <img src="https://img.shields.io/badge/Core_Member-18181b?style=for-the-badge&labelColor=a1a1aa&logo=github&logoColor=FCC108" alt="Core Member" />
       <br/><br/>
     </td>
-    <td width="27%%" align="center" valign="top">
+  </tr>
+
+  <tr>
+    <!-- Yahya Moussair -->
+    <td width="33.33%" align="center" valign="top">
       <br/>
       <a href="https://github.com/yahya-moussair">
         <img src="https://github.com/yahya-moussair.png?s=120" width="100" alt="Yahya Moussair" />
       </a>
       <br/><br/>
       <b>Yahya Moussair</b><br/>
-      <a href="https://github.com/yahya-moussair"><img src="https://img.shields.io/badge/@yahya--moussair-09090b?style=for-the-badge&labelColor=FCC108&logo=github&logoColor=FCC108" alt="@yahya-moussair" /></a><br/><br/>
+      <a href="https://github.com/yahya-moussair">
+        <img src="https://img.shields.io/badge/@yahya--moussair-09090b?style=for-the-badge&labelColor=FCC108&logo=github&logoColor=FCC108" alt="@yahya-moussair" />
+      </a><br/><br/>
       <img src="https://img.shields.io/badge/Core_Member-18181b?style=for-the-badge&labelColor=a1a1aa&logo=github&logoColor=FCC108" alt="Core Member" />
       <br/><br/>
     </td>
-    <td width="27%%" align="center" valign="top">
+
+    <!-- Ilyass Elyatime -->
+    <td width="33.33%" align="center" valign="top">
       <br/>
       <a href="https://github.com/ie-orphane">
         <img src="https://github.com/ie-orphane.png?s=120" width="100" alt="Ilyass Elyatime" />
       </a>
       <br/><br/>
       <b>Ilyass Elyatime</b><br/>
-      <a href="https://github.com/ie-orphane"><img src="https://img.shields.io/badge/@ie--orphane-09090b?style=for-the-badge&labelColor=FCC108&logo=github&logoColor=FCC108" alt="@ie-orphane" /></a><br/><br/>
+      <a href="https://github.com/ie-orphane">
+        <img src="https://img.shields.io/badge/@ie--orphane-09090b?style=for-the-badge&labelColor=FCC108&logo=github&logoColor=FCC108" alt="@ie-orphane" />
+      </a><br/><br/>
       <img src="https://img.shields.io/badge/Core_Member-18181b?style=for-the-badge&labelColor=a1a1aa&logo=github&logoColor=FCC108" alt="Core Member" />
       <br/><br/>
     </td>
-  </tr>
 
+    <!-- Empty cell for alignment -->
+    <td width="33.33%" align="center" valign="top"></td>
+  </tr>
 </table>
 
 <br/>
