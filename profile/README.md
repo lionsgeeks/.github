@@ -34,7 +34,7 @@ We build real-world products, support developers, and share knowledge across Mor
 
 ## Team
 <table>
-  <tr>
+  <tr width="100%" >
     <td width="32%" align="center" valign="top">
       <br/>
       <a href="https://github.com/forkanimahdi">
