@@ -60,7 +60,7 @@ We build real-world products, support developers, and share knowledge across Mor
     <td width="32%" align="center" valign="top">
       <br/>
       <a href="https://github.com/sarachafikidrissi">
-        <img src="https://github.com/sarachafikidrissi?s=120" width="100" alt="Ayman Boujjar" />
+        <img src="https://github.com/sarachafikidrissi.png?s=120" width="100" alt="Ayman Boujjar" />
       </a>
       <br/><br/>
       <b>sara chafik idrissi</b><br/>
