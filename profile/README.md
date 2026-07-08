@@ -33,7 +33,7 @@ We build real-world products, support developers, and share knowledge across Mor
 <br/>
 
 ## Team
-<table>
+<table width="100%">
   <tr width="100%" >
     <td width="32%" align="center" valign="top">
       <br/>
