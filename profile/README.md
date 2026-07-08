@@ -64,7 +64,8 @@ We build real-world products, support developers, and share knowledge across Mor
       </a>
       <br/><br/>
       <b>sara chafik idrissi</b><br/>
-      <a href="https://github.com/sarachafikidrissi"><img src="https://img.shields.io/badge/@sarachafikidrissi?style=for-the-badge&labelColor=FCC108&logo=github&logoColor=FCC108" alt="@sarachafikidrissi" /></a><br/><br/>
+      <a href="https://github.com/sarachafikidrissi">
+        <img src="https://img.shields.io/badge/@sarachafikidrissi-09090b?style=for-the-badge&labelColor=FCC108&logo=github&logoColor=FCC108" alt="@sarachafikidrissi" /></a><br/><br/>
       <img src="https://img.shields.io/badge/Core_Member-18181b?style=for-the-badge&labelColor=a1a1aa&logo=github&logoColor=FCC108" alt="Core Member" />
       <br/><br/>
     </td>
