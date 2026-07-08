@@ -35,7 +35,7 @@ We build real-world products, support developers, and share knowledge across Mor
 ## Team
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
       <br/>
       <a href="https://github.com/forkanimahdi">
         <img src="https://github.com/forkanimahdi.png?s=120" width="100" alt="Mehdi Forkani" />
@@ -46,7 +46,7 @@ We build real-world products, support developers, and share knowledge across Mor
       <img src="https://img.shields.io/badge/Team_Leader-18181b?style=for-the-badge&labelColor=FCC108&logo=github&logoColor=FCC108" alt="Team Leader" />
       <br/><br/>
     </td>
-    <td width="33%%" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
       <br/>
       <a href="https://github.com/aymanboujjar">
         <img src="https://github.com/aymanboujjar.png?s=120" width="100" alt="Ayman Boujjar" />
@@ -57,7 +57,7 @@ We build real-world products, support developers, and share knowledge across Mor
       <img src="https://img.shields.io/badge/Core_Member-18181b?style=for-the-badge&labelColor=a1a1aa&logo=github&logoColor=FCC108" alt="Core Member" />
       <br/><br/>
     </td>
-    <td width="33%%" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
       <br/>
       <a href="https://github.com/yahya-moussair">
         <img src="https://github.com/yahya-moussair.png?s=120" width="100" alt="Yahya Moussair" />
@@ -71,7 +71,7 @@ We build real-world products, support developers, and share knowledge across Mor
   </tr> 
   
   <tr>
-    <td width="27%%" align="center" valign="top">
+    <td width="33%%" align="center" valign="top">
       <br/>
       <a href="https://github.com/ie-orphane">
         <img src="https://github.com/ie-orphane.png?s=120" width="100" alt="Ilyass Elyatime" />
